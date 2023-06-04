@@ -1,0 +1,27 @@
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\Ahmed\source\repos\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Route course\Projects\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
